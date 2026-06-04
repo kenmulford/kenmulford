@@ -13,6 +13,7 @@ Currently building seriously in the AI space — MCP servers, Claude Code toolin
 **Notable projects:**
 - [Practicing Prayer](https://github.com/kenmulford/PracticingPrayer) — Cross-platform mobile prayer journal, live on App Store + Google Play
 - [PM Skills](https://github.com/kenmulford/PMSkills) — Claude Code plugin for technical PMs; generates production-ready artifacts from natural language
+- [Milestone Driver](https://github.com/kenmulford/milestone-driver) — Hand Claude Code a GitHub milestone; it drives every issue to a merged PR, TDD-enforced and mechanically gated
 
 ---
 
