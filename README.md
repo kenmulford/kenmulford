@@ -12,8 +12,10 @@ Currently building seriously in the AI space — MCP servers, Claude Code toolin
 
 **Notable projects:**
 - [Practicing Prayer](https://github.com/kenmulford/PracticingPrayer) — Cross-platform mobile prayer journal, live on App Store + Google Play
-- [PM Skills](https://github.com/kenmulford/PMSkills) — Claude Code plugin for technical PMs; generates production-ready artifacts from natural language
-- [Milestone Driver](https://github.com/kenmulford/milestone-driver) — Hand Claude Code a GitHub milestone; it drives every issue to a merged PR, TDD-enforced and mechanically gated
+- [Milestone Suite](https://github.com/kenmulford/milestone-suite) — A Claude Code dev-tools suite that carries a feature from brief to merged PRs. Add one marketplace, install three plugins:
+  - [milestone-bootstrapper](https://github.com/kenmulford/milestone-bootstrapper) — Captures your project's conventions, architecture, and framework decisions so the other two build the way you would
+  - [milestone-feeder](https://github.com/kenmulford/milestone-feeder) — Turns a feature brief into a GitHub milestone of small, well-formed issues
+  - [milestone-driver](https://github.com/kenmulford/milestone-driver) — Drives every issue in a milestone to a merged PR — TDD-enforced and mechanically gated
 
 ---
 
